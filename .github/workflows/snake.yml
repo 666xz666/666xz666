@@ -1,4 +1,4 @@
-# snake.yml
+# snake.yml 
 name: generate animation
 on:
   # run automatically every 24 hours
