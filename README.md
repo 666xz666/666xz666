@@ -21,6 +21,8 @@ I mainly use **C++** and **Python** for programming.
 I am passionate about all areas of computer science, and I look forward to continuously improving my skills and knowledge in my future studies and work.👣
 ![](https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg)
 
+![](https://komarev.com/ghpvc/?username=666xz666)
+
 <!---
 666xz666/666xz666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
