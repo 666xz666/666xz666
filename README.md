@@ -19,7 +19,7 @@ I mainly use **C++** and **Python** for programming.
 
 我对计算机科学的各个领域都充满了热情，我期待在未来的学习和工作中不断提升我的技能和知识。👣
 I am passionate about all areas of computer science, and I look forward to continuously improving my skills and knowledge in my future studies and work.👣
-
+![](https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg)
 
 <!---
 666xz666/666xz666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
