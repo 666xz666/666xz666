@@ -1,6 +1,6 @@
 # 你好✋
   
-# Hello, there✋
+# Hi, there✋
 
 我是一名来自**中国矿业大学**的计算机科学与技术专业的本科生。🔨
 I am an undergraduate student majoring in Computer Science and Technology at the **China University of Mining and Technology**.🔨
