@@ -6,7 +6,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/666xz666
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=666xz666&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=666xz666&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)
 
-![](https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=666xz666&theme=dracula)
 
 ![](https://komarev.com/ghpvc/?username=666xz666)
 
