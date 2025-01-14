@@ -21,6 +21,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/666xz666
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=666xz666&theme=github-compact&hide_border=true&area=true" />
 
+<img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,python,java,vue,windows,linux">
 
 ![](https://komarev.com/ghpvc/?username=666xz666)
 
