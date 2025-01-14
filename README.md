@@ -1,6 +1,6 @@
 # 你好/Hi, there✋
 
-I am an undergraduate student majoring in Computer Science and Technology at the [**China University of Mining and Technology**]([中国矿业大学](https://www.cumt.edu.cn/)).
+I am an undergraduate student majoring in Computer Science and Technology at the [**China University of Mining and Technology**](https://www.cumt.edu.cn/).
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/666xz666/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
 
