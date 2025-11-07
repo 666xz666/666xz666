@@ -2,8 +2,6 @@
 
 I am an undergraduate student majoring in Computer Science and Technology at the [**China University of Mining and Technology**](https://www.cumt.edu.cn/).
 
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/666xz666/count.svg)](https://blog.i-xiao.space/) visitor, Thank You!🎉🎉
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=666xz666&show_icons=true&hide_border=true&line_height=24&theme=dark"
