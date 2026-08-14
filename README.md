@@ -1,6 +1,7 @@
 # 你好/Hi, there✋
 
-I am an undergraduate student majoring in Computer Science and Technology at the [**China University of Mining and Technology**](https://www.cumt.edu.cn/).
+我现在是北京交通大学计算机科学与技术专业硕士研究生，本科毕业于[**中国矿业大学**](https://www.cumt.edu.cn/)计算机科学与技术专业。  
+I’m a graduate student in Computer Science and Technology at [**Beijing Jiaotong University**](https://www.bjtu.edu.cn/), and I received my bachelor’s degree in Computer Science and Technology from [**China University of Mining and Technology**](https://www.cumt.edu.cn/).
 
 <picture>
   <source
